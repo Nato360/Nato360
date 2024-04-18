@@ -2,7 +2,7 @@
 
 # I build things on the web
 - I'm currently learning certain front-end and back-end technologies.
-- Contact me for tech events, conferences etc, @ <a href="mailto:iwokfortune@gmail.com"><img src="icons/envelope-regular1.svg" width="20" height="20" align="center"></a>
+- Contact me for tech events, conferences etc, @ <a href="mailto:iwokfortune@gmail.com"><img src="icons/envelope-regular1.svg" width="25" height="25" align="center"></a>
 
 # Skills
 <div style="padding-bottom: 15px">
