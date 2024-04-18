@@ -12,7 +12,7 @@
 <img src="icons/reactjs/reactjs.svg" alt="reactjs Icon" width="48" height="48">
 <img src="icons/bootstrap/bootstrap.svg" alt="Bootstrap Icon" width="48" height="48">
 <img src="icons/python/python.svg" alt="Python Icon" width="48" height="48"> 
-<img src="icons/golang/golang1.svg" alt="Golang Icon" width="50" height="50">
+<img src="icons/golang/golang1.svg" alt="Golang Icon" width="55" height="55">
 
 <br>
 </div>
