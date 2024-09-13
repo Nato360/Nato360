@@ -4,7 +4,7 @@
 - I'm currently learning certain front-end and back-end technologies.
 - Contact me for tech events, conferences etc, @ <a href="mailto:iwokfortune@gmail.com"><img src="icons/envelope-regular1.svg" width="25" height="25" align="center"></a>
 
-# Skills
+# My Stack
 <div style="padding-bottom: 15px">
 <img src="icons/html/html.svg" alt="HTML5 Icon" width="48" height="48"> 
 <img src="icons/css/css.svg" alt="CSS3 Icon" width="48" height="48">
